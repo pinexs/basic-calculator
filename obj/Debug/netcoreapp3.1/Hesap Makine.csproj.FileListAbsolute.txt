@@ -1,0 +1,15 @@
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.exe
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.deps.json
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.runtimeconfig.json
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.runtimeconfig.dev.json
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.dll
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\bin\Debug\netcoreapp3.1\Hesap Makine.pdb
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.csprojAssemblyReference.cache
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap_Makine.Form1.resources
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.csproj.GenerateResource.cache
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.AssemblyInfoInputs.cache
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.AssemblyInfo.cs
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.csproj.CoreCompileInputs.cache
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.dll
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.pdb
+C:\Users\Efe Hasırcıoğlu\source\repos\Hesap Makine\Hesap Makine\obj\Debug\netcoreapp3.1\Hesap Makine.genruntimeconfig.cache
